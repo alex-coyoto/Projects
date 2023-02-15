@@ -1,0 +1,27 @@
+{
+  "name": "vt-mobile",
+  "version": "1.1.3",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "expo": "~47.0.12",
+    "expo-font": "~11.0.1",
+    "expo-status-bar": "~1.4.2",
+    "intl": "^1.2.5",
+    "prop-types": "^15.8.1",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-modal": "^13.0.1",
+    "react-native-switch-selector": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

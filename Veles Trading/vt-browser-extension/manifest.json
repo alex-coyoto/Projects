@@ -1,0 +1,22 @@
+{
+  "name": "Veles Trading Browser",
+  "description": "Veles Trading Browser Extension",
+  "version": "1.0.5",
+  "manifest_version": 3,
+  "action": {
+    "default_icon": {
+      "16": "/images/vt16.png",
+      "32": "/images/vt32.png",
+      "48": "/images/vt64.png",
+      "128": "/images/vt128.png"
+    },
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "/images/vt16.png",
+    "32": "/images/vt32.png",
+    "48": "/images/vt64.png",
+    "128": "/images/vt128.png"
+  },
+  "permissions": ["scripting"]
+}
